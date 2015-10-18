@@ -131,6 +131,7 @@ tankkausDialog::tankkausDialog(wxWindow* parent,wxWindowID id)
     //*)
 
     UpdateCarList();
+    btnStore->SetLabel(NEW_VEHICLE_LABEL);
     //float cons[32000];
     //int dates[32000];
     //float kmBefore=0;
