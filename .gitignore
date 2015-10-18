@@ -1,6 +1,10 @@
 # Code::block not-needed files
 *.layout
 *.depend
+
+#CSV
+*.csv
+
 # Compiled Object files
 *.slo
 *.lo
